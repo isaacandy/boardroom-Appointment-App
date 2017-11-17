@@ -1,4 +1,4 @@
-# OpenTok Embed Appointment Demo
+# Boardroom Embed Appointment
 
 An appointment application that uses [OpenTok Video Embeds](https://tokbox.com/developer/embeds/) to provide real-time video communication.
 
