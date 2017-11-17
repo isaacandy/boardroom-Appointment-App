@@ -1,0 +1,26 @@
+{
+  "name": "ot_embed_appointment_demo",
+  "version": "0.0.1",
+  "description": "A small demo application demonstrating usage of Boardroom handling appointments.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "engines": {
+    "node": ">=6.9.x",
+    "npm": ">=5.1.x"
+  },
+  "keywords": [
+    "opentok",
+    "demo",
+    "webrtc"
+  ],
+  "author": "Isaac Andy <isaac@iznd.com.my>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  }
+}
